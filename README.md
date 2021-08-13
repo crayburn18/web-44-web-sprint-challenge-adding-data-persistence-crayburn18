@@ -124,4 +124,4 @@ Foreign Key
 
 4. What do we need in order to have a _many to many_ relationship between two tables?
 
-A third table that includes the primary keys of the two tables trying to connect
+A third table that includes the primary keys of the two tables trying to connect..
